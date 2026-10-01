@@ -1,0 +1,14 @@
+{
+  "name": "high-accuracy-work",
+  "version": "0.1.0",
+  "description": "A standard for work on files and data: judge meaning yourself and script the mechanical steps, keep files inside the approved environment, cover every file and page, verify against the source, calibrate every claim, and report limits and coverage.",
+  "author": {
+    "name": "Peyman",
+    "email": "peyman.h.j@gmail.com"
+  },
+  "repository": "https://github.com/phj6688/high-accuracy-work-skill",
+  "license": "MIT",
+  "homepage": "https://github.com/phj6688/high-accuracy-work-skill",
+  "keywords": ["accuracy", "documents", "data-extraction", "document-review", "spreadsheets", "scans", "verification", "coverage", "claude-code", "skill"],
+  "skills": "./skills/"
+}
